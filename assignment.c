@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<stdint.h>
+
 // Total memory size
 #define MEMORY_SIZE(100 *1024)
 // Minimum alocatable memory
